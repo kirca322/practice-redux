@@ -1,0 +1,62 @@
+.addButton {
+  background-color: skyblue;
+  height: 30px;
+  width: 100px;
+  margin: 10px;
+  font-size: 1.2em;
+}
+
+.body {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.slash {
+  width: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.write-input {
+  border: 1px solid;
+  width: 700px;
+  height: 25px;
+  padding: 5px;
+  padding-left: 15px;
+}
+
+.table {
+  text-align:center;
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 1.2em;
+}
+
+.option-box {
+  background-color: gainsboro;
+  width: 1000px;
+  padding: 8px;
+  margin: auto;
+  font-size: 1.3em;
+}
+
+.table-box {
+  width: 1000px;
+  margin: auto;
+  background-color: gainsboro;
+  padding: 8px;
+  margin-top: 30px;
+}
+
+tr, td {
+  border: 1px solid white;
+}
+
+.actions {
+  width: 100px;
+}
+
+tr {
+  height: 40px;
+}
